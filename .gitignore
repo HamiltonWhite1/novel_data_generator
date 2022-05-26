@@ -1,0 +1,5 @@
+*__pycache__
+*i_robot_sources
+*venv
+*novel_csv.csv
+*.DS_Store
